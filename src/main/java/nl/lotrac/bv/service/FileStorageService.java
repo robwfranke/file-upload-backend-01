@@ -17,7 +17,7 @@ import nl.lotrac.bv.repository.FileDBRepository;
 
 
 @Service
-public class FilesStorageServiceImpl {
+public class FileStorageService {
 
     @Autowired
     private FileDBRepository fileDBRepository;
